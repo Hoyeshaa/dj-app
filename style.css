@@ -1,0 +1,51 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+.notes{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: 50%;
+}
+
+#speed_img{
+    width:200px;
+    border-radius: 100px;
+}
+#volume_img{
+    width: 200px;
+    border-radius:100px;
+}
+
+.volume{
+    float: right;
+}
+
+.speed{
+    float: left;
+}
+
+#speed{
+font-size: 20px;
+margin: 15px;
+}
+
+#volume{
+    font-size: 20px;
+    margin: 15px;
+}
+
+button{
+    width: 100px;
+    font-style: oblique;
+}
+
+canvas{
+    border: 2px solid white;
+    border-radius: 20px;
+}
+
